@@ -1,0 +1,28 @@
+{
+  "_fv": 10,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "smiths_hammer",
+    "customModelName": "Tool",
+    "name": "Smith's Hammer",
+    "creativeTab": {
+      "value": "CUSTOM:MedievalmcParts"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.5,
+    "damageCount": 100,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 5.0,
+    "specialInfo": [],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64
+  }
+}

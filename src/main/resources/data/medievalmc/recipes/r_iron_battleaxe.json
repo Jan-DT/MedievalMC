@@ -1,0 +1,26 @@
+{
+  "group": "medievalmc",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "medievalmc:axe_head"
+    },
+    "1": {
+      "item": "medievalmc:handle"
+    },
+    "2": {
+      "item": "medievalmc:smiths_hammer"
+    },
+    "3": {
+      "item": "medievalmc:handle"
+    }
+  },
+  "result": {
+    "item": "medievalmc:iron_battleaxe",
+    "count": 1
+  }
+}

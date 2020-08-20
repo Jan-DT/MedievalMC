@@ -1,0 +1,19 @@
+{
+  "group": "medievalmc",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "medievalmc:smiths_hammer"
+    },
+    "1": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "medievalmc:iron_blade_short",
+    "count": 1
+  }
+}

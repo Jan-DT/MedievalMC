@@ -1,0 +1,11 @@
+{
+  "_fv": 10,
+  "_type": "tab",
+  "definition": {
+    "name": "MMC Weapons",
+    "icon": {
+      "value": "CUSTOM:IronBattleaxe"
+    },
+    "showSearch": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "iron_doubleaxe",
+    "customModelName": "Normal",
+    "name": "Iron Doubleaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:MedievalmcWeapons"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 0,
+    "efficiency": 5.0,
+    "attackSpeed": 0.8,
+    "enchantability": 14,
+    "damageVsEntity": 9.5,
+    "usageCount": 640,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "iron_dagger",
+    "customModelName": "Normal",
+    "name": "Iron Dagger",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:MedievalmcWeapons"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 1.9,
+    "enchantability": 14,
+    "damageVsEntity": 4.5,
+    "usageCount": 150,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

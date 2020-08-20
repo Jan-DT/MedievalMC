@@ -1,0 +1,27 @@
+{
+  "group": "medievalmc",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "medievalmc:smiths_hammer"
+    },
+    "3": {
+      "item": "minecraft:iron_ingot"
+    },
+    "5": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "medievalmc:iron_blade_long",
+    "count": 1
+  }
+}

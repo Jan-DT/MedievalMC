@@ -1,0 +1,259 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "IronLongsword",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_longsword"
+    },
+    {
+      "name": "IronBattleaxe",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_battleaxe"
+    },
+    {
+      "name": "IronDagger",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_dagger"
+    },
+    {
+      "name": "SmithsHammer",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smiths_hammer"
+    },
+    {
+      "name": "MedievalmcParts",
+      "type": "tab",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "medievalmc_parts"
+    },
+    {
+      "name": "MedievalmcWeapons",
+      "type": "tab",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "medievalmc_weapons"
+    },
+    {
+      "name": "Hilt",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hilt"
+    },
+    {
+      "name": "IronBladeLong",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_blade_long"
+    },
+    {
+      "name": "IronBladeRegular",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_blade_regular"
+    },
+    {
+      "name": "IronBladeShort",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_blade_short"
+    },
+    {
+      "name": "RIronBladeRegular",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "r_iron_blade_regular"
+    },
+    {
+      "name": "RIronBladeLong",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "r_iron_blade_long"
+    },
+    {
+      "name": "RIronBladeShort",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "r_iron_blade_short"
+    },
+    {
+      "name": "RSmithsHammer",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "r_smiths_hammer"
+    },
+    {
+      "name": "RIronLongsword",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "r_iron_longsword"
+    },
+    {
+      "name": "RIronDagger",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "r_iron_dagger"
+    },
+    {
+      "name": "AWeaponSmithing",
+      "type": "achievement",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "a_weapon_smithing"
+    },
+    {
+      "name": "Handle",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "handle"
+    },
+    {
+      "name": "AxeHead",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "axe_head"
+    },
+    {
+      "name": "RHandle",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "r_handle"
+    },
+    {
+      "name": "RAxeHead",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "r_axe_head"
+    },
+    {
+      "name": "RIronBattleaxe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "r_iron_battleaxe"
+    },
+    {
+      "name": "IronDoubleaxe",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_doubleaxe"
+    },
+    {
+      "name": "RIronDoubleaxe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "r_iron_doubleaxe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.medievalmc.iron_blade_regular": "Iron Blade Regular",
+      "item.medievalmc.axe_head": "Axe Head",
+      "item.medievalmc.iron_dagger": "Iron Dagger",
+      "advancements.a_weapon_smithing.title": "Weaponsmithing",
+      "itemGroup.tabmedievalmc_weapons": "MMC Weapons",
+      "item.medievalmc.iron_longsword": "Iron Longsword",
+      "item.medievalmc.iron_blade_long": "Iron Blade Long",
+      "item.medievalmc.handle": "Handle",
+      "item.medievalmc.smiths_hammer": "Smith\u0027s Hammer",
+      "item.medievalmc.iron_battleaxe": "Iron Battleaxe",
+      "advancements.a_weapon_smithing.descr": "Craft a Smith\u0027s Hammer.",
+      "itemGroup.tabmedievalmc_parts": "MMC Crafting",
+      "item.medievalmc.iron_doubleaxe": "Iron Doubleaxe",
+      "item.medievalmc.iron_blade_short": "Iron Blade Short",
+      "item.medievalmc.hilt": "Hilt"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "medievalmc",
+    "modName": "MedievalMC",
+    "version": "1.0.0",
+    "author": "Jan, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "dev.eclypse.medievalmc",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}
