@@ -3,20 +3,20 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "iron_battleaxe",
+    "texture": "iron_halberd",
     "customModelName": "Normal",
-    "name": "Iron Battleaxe",
+    "name": "Iron Halberd",
     "specialInfo": [],
     "creativeTab": {
       "value": "CUSTOM:MedievalmcWeapons"
     },
     "toolType": "Axe",
     "harvestLevel": 0,
-    "efficiency": 5.0,
-    "attackSpeed": 0.9,
-    "enchantability": 14,
+    "efficiency": 4.0,
+    "attackSpeed": 0.85,
+    "enchantability": 2,
     "damageVsEntity": 8.5,
-    "usageCount": 580,
+    "usageCount": 450,
     "blocksAffected": [],
     "hasGlow": false,
     "repairItems": [

@@ -1,0 +1,19 @@
+{
+  "_fv": 10,
+  "_type": "fluid",
+  "definition": {
+    "name": "BoilingOil",
+    "textureStill": "boiling_oil_still",
+    "textureFlowing": "boiling_oil_flow",
+    "luminosity": 2,
+    "density": 4500,
+    "viscosity": 4500,
+    "isGas": false,
+    "type": "LAVA",
+    "generateBucket": false,
+    "creativeTab": {
+      "value": "CUSTOM:MedievalmcParts"
+    },
+    "spawnWorldTypes": []
+  }
+}

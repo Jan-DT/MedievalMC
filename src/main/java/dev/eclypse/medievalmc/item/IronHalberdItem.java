@@ -14,22 +14,22 @@ import dev.eclypse.medievalmc.itemgroup.MedievalmcWeaponsItemGroup;
 import dev.eclypse.medievalmc.MedievalmcModElements;
 
 @MedievalmcModElements.ModElement.Tag
-public class IronBattleaxeItem extends MedievalmcModElements.ModElement {
-	@ObjectHolder("medievalmc:iron_battleaxe")
+public class IronHalberdItem extends MedievalmcModElements.ModElement {
+	@ObjectHolder("medievalmc:iron_halberd")
 	public static final Item block = null;
-	public IronBattleaxeItem(MedievalmcModElements instance) {
-		super(instance, 2);
+	public IronHalberdItem(MedievalmcModElements instance) {
+		super(instance, 25);
 	}
 
 	@Override
 	public void initElements() {
 		elements.items.add(() -> new AxeItem(new IItemTier() {
 			public int getMaxUses() {
-				return 580;
+				return 450;
 			}
 
 			public float getEfficiency() {
-				return 5f;
+				return 4f;
 			}
 
 			public float getAttackDamage() {
@@ -41,13 +41,13 @@ public class IronBattleaxeItem extends MedievalmcModElements.ModElement {
 			}
 
 			public int getEnchantability() {
-				return 14;
+				return 2;
 			}
 
 			public Ingredient getRepairMaterial() {
 				return Ingredient.fromStacks(new ItemStack(Items.IRON_INGOT, (int) (1)));
 			}
-		}, 1, -3.1f, new Item.Properties().group(MedievalmcWeaponsItemGroup.tab)) {
-		}.setRegistryName("iron_battleaxe"));
+		}, 1, -3.15f, new Item.Properties().group(MedievalmcWeaponsItemGroup.tab)) {
+		}.setRegistryName("iron_halberd"));
 	}
 }

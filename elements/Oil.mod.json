@@ -1,0 +1,21 @@
+{
+  "_fv": 10,
+  "_type": "fluid",
+  "definition": {
+    "name": "Oil",
+    "textureStill": "oil_flow",
+    "textureFlowing": "oil_still",
+    "luminosity": 0,
+    "density": 5000,
+    "viscosity": 5000,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": false,
+    "creativeTab": {
+      "value": "CUSTOM:MedievalmcParts"
+    },
+    "spawnWorldTypes": [
+      "Nether"
+    ]
+  }
+}

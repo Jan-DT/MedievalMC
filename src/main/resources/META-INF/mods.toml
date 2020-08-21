@@ -3,11 +3,14 @@ loaderVersion="[31,)"
 
 [[mods]]
 modId="medievalmc"
-version="1.0.0"
+version="1.0.0-alpha-2"
 displayName="MedievalMC"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://mcreator.net"
-authors="Jan, MCreator"
+credits="Made using MCreator - Check it out!"
+displayURL="https://eclypse.dev/"
+authors="4FA"
+description='''
+MedievalMC is a modification for Minecraft aiming to add tons of medieval weapons and items. 
+'''
 
 [[dependencies.medievalmc]]
     modId="minecraft"
